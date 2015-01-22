@@ -1,0 +1,3 @@
+# file.rb
+
+puts "Hello!"
